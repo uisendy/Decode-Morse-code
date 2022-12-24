@@ -1,2 +1,39 @@
 # Decode-Morse-code
-Morse code project is using Ruby to find secret message.
+
+> Morse code project is using Ruby to find secret message.
+
+## Built With
+
+- Ruby
+
+## Authors
+
+👤 _Sendy Inieke_
+
+- Github: [@SendyIU](https://github.com/uisendy)
+- Twitter: [@sinieke](https://twitter.com/sinieke)
+- LinkedIn: [inieke-sendy](https://www.linkedin.com/in/inieke-sendy-129b57ab/)
+
+👤 **Kenny Egun**
+
+- GitHub: [@kennyegun24](https://github.com/kennyegun24)
+- Twitter: [@kenny_eLias](https://twitter.com/kenny_eLias)
+- LinkedIn: [sendyinieke](https://www.linkedin.com/in/linkediin/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT) licensed.
