@@ -31,4 +31,3 @@ def decode_char(char)
   MORSE_CODE[char]
 end
 puts decode_char('.-')
-
