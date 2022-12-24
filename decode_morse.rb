@@ -39,7 +39,6 @@ def decode_word(word)
 end
 puts decode_word('-- -.--')
 
-
 def decode(sentence)
   words = sentence.split('   ')
   message = ''
